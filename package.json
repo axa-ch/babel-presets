@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/axa-ch/babel-preset-axa-base/issues"
   },
-  "homepage": "https://github.com/axa-ch/babel-preset-axa-base#readme"
+  "homepage": "https://github.com/axa-ch/babel-preset-axa-base#readme",
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0"
+  }
 }
