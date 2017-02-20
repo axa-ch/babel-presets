@@ -1,0 +1,23 @@
+{
+  "name": "babel-preset-axa-base",
+  "version": "1.0.0",
+  "description": "AXA's base Babel RC, extending es2015 preset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/babel-preset-axa-base.git"
+  },
+  "keywords": [
+    "babel",
+    "babelpreset"
+  ],
+  "author": "Andreas Deuschlinger <andreas.deuschlinger@axa-winterthur.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/babel-preset-axa-base/issues"
+  },
+  "homepage": "https://github.com/axa-ch/babel-preset-axa-base#readme"
+}
