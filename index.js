@@ -1,13 +1,13 @@
-modules.export = {
+module.exports = {
   presets: [
-    'es2025'
+    require('babel-preset-es2025')
   ],
 
   plugins: [
-    'transform-object-assign',
-    'transform-decorators-legacy',
-    'transform-class-properties',
-    'transform-es2015-destructuring',
-    'transform-object-rest-spread'
+    require('babel-plugin-transform-object-assign'),
+    require('babel-plugin-transform-decorators-legacy'),
+    require('babel-plugin-transform-class-properties'),
+    require('babel-plugin-transform-es2015-destructuring'),
+    require('babel-plugin-transform-object-rest-spread')
   ]
 }
