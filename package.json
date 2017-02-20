@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/axa-ch/babel-preset-axa-react/issues"
   },
-  "homepage": "https://github.com/axa-ch/babel-preset-axa-react#readme"
+  "homepage": "https://github.com/axa-ch/babel-preset-axa-react#readme",
+  "dependencies": {
+    "@axa-ch/babel-preset-axa-base": "^1.0.0",
+    "babel-preset-react": "^6.23.0"
+  }
 }
