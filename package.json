@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-axa-base",
+  "name": "@axa-ch/babel-preset-axa-base",
   "version": "1.0.0",
   "description": "AXA's base Babel RC, extending es2015 preset",
   "main": "index.js",
