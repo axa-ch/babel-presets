@@ -1,6 +1,6 @@
 {
   "name": "@axa-ch/babel-preset-axa-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AXA's React Babel RC, extending es2015, react presets",
   "main": "index.js",
   "scripts": {
