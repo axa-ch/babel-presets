@@ -1,0 +1,27 @@
+{
+  "name": "babel-preset-axa-react",
+  "version": "1.0.0",
+  "description": "AXA's React Babel RC, extending es2015, react presets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/babel-preset-axa-react.git"
+  },
+  "keywords": [
+    "babel",
+    "babelpreset"
+  ],
+  "author": "Andreas Deuschlinger <andreas.deuschlinger@axa-winterthur.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/babel-preset-axa-react/issues"
+  },
+  "homepage": "https://github.com/axa-ch/babel-preset-axa-react#readme",
+  "dependencies": {
+    "@axa-ch/babel-preset-axa-base": "^1.0.0",
+    "babel-preset-react": "^6.23.0"
+  }
+}
